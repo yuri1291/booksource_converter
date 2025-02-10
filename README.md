@@ -14,6 +14,14 @@
 >```
 >复制链接在重写中导入即可访问[manya.com](https://manya.com)即可访问
 
-
+>```
 # GBK encoding Convertor 
 > 来自于 https://r12a.github.io/
+
+>```
+# 开源阅读发现工具 
+>感谢来自源社区的网友 - 河鹅和 提供的
+
+>```
+# Eval 解码 
+>来自于 https://www.cnblogs.com/cc11001100/p/8468508.html
